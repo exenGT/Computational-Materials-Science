@@ -1,2 +1,3 @@
-# Computational-Materials-Science
-Useful tools and scripts developed for computational materials science research.
+# General-purpose
+
+General purpose scripts for data post-processing.
